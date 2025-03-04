@@ -34,3 +34,14 @@
 📌 [GitHub Repository Link (To be added once project is complete)]  
 
 
+## **Day 3**  
+📅 **📅 3rd March**  
+
+### **Today's Progress:**  
+✅ Improved responsiveness to enhance the user experience across different screen sizes.
+✅ Added volume control functionality, allowing users to adjust the volume dynamically.
+✅ Enhanced UI design for a more intuitive and polished look. 
+
+### **Thoughts:**  
+💡 Making the music player more interactive and responsive has been a rewarding experience! Handling volume controls and refining the UI design helped reinforce my JavaScript and CSS skills. Excited to continue enhancing the user experience!
+
