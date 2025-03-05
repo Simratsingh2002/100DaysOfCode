@@ -45,3 +45,20 @@
 ### **Thoughts:**  
 💡 Making the music player more interactive and responsive has been a rewarding experience! Handling volume controls and refining the UI design helped reinforce my JavaScript and CSS skills. Excited to continue enhancing the user experience!
 
+## **Day 4**  
+📅 **4th March**  
+
+### **Today's Progress:**  
+✅ Worked on dynamic album functionality, making the music player more interactive.
+✅ Resolved bugs as the project scaled and became more complex.
+✅ Implemented previous/next song navigation for a better playback experience.
+
+### **JavaScript Learning of the Day:**  
+💡 Discovered an interesting JavaScript quirk while working with getElementsByClassName().
+It returns an array-like object, NOT an actual array!
+You can’t use a for loop directly on it.
+It needs to be converted to an array first using Array.from().
+##Array.from(document.getElementsByClassName("card")).forEach(card => { console.log(card); });
+##JavaScript never ceases to amaze! 🤯
+##Thoughts:
+💡 As the project becomes more dynamic, I’m learning more about handling complex JavaScript structures and debugging at scale. Excited to keep going!
