@@ -62,3 +62,43 @@ It needs to be converted to an array first using Array.from().
 ##JavaScript never ceases to amaze! 🤯
 ##Thoughts:
 💡 As the project becomes more dynamic, I’m learning more about handling complex JavaScript structures and debugging at scale. Excited to keep going!
+
+## **Day 5**  
+📅 **5th March**  
+
+### **Today's Progress:**  
+✅ Added Dynamic Album Functionality – Users can now select an album/playlist, and its songs will load automatically with the first song playing.
+✅ Implemented Mute/Unmute Functionality – Users can now seamlessly toggle between volume control and mute.
+✅ Improved UI/UX and enhanced responsiveness for a smoother, more interactive experience.
+
+### **Key Learning**  
+💡 Managing dynamic content updates and handling event listeners efficiently was both challenging and rewarding. Seeing the project evolve into something more interactive has been incredibly exciting! 🚀
+
+### **Next Steps**
+🔜 Refining album interactions and improving user controls.
+🔜 Exploring additional playback features for a seamless listening experience.
+
+##Excited to keep improving and learning every step of the way! 🚀
+
+## **Day 6**  
+📅 **6th March**  
+
+### **Today's Progress:**  
+✅ Completed my Web Music Player project after more than a week of hard work! 🎧
+✅ Added Dynamic Album Functionality – Users can now select an album or playlist, and the songs will load automatically with the first track playing.
+✅ Ensured Responsive Design for smooth performance across various devices.
+✅ Improved UI/UX for a more polished and intuitive experience.
+
+### **Key Learning**  
+##💡 Building this project enhanced my understanding of JavaScript concepts like:
+Dynamic content loading
+Handling event listeners efficiently
+Improving UI responsiveness
+
+### **Next Steps**
+🔜 Working on deploying the project. Since this project doesn’t have a backend yet, deployment has been challenging — but I’m actively working on resolving this.
+
+Source Code:
+###**📌 GitHub Repository Link - https://github.com/Simratsingh2002/Music-Web-Player **
+
+Excited to take the next step in my learning journey! 🚀
