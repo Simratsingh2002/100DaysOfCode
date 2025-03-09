@@ -98,7 +98,32 @@ Improving UI responsiveness
 ### **Next Steps**
 🔜 Working on deploying the project. Since this project doesn’t have a backend yet, deployment has been challenging — but I’m actively working on resolving this.
 
-Source Code:
-###**📌 GitHub Repository Link - https://github.com/Simratsingh2002/Music-Web-Player **
+## **Day 7**  
+📅 **8th March**  
 
-Excited to take the next step in my learning journey! 🚀
+### **Today's Progress:**  
+✅ Faced challenges while deploying my Web Music Player project due to the absence of a backend.
+✅ Spent the last two days troubleshooting, yet the deployment issue persists.
+
+### **Next Steps**
+🔜 Start learning Express.js to gain a better understanding of server-side operations and effectively resolve the deployment challenge.
+
+### **Call for Assistance:**
+🙋‍♂️ If anyone has experience deploying frontend-only projects or integrating them with a simple server, your guidance would be incredibly helpful!
+
+## **Day 8**  
+📅 **9th March**  
+
+### **Today's Progress:**  
+✅ Explored Node.js Module Systems:
+CommonJS: Learned how to use require() for imports and module.exports for exports.
+ES Modules (ESM): Gained understanding of import and export statements for asynchronous module loading.
+✅ Built RESTful APIs with Express.js:
+Set up a basic server using Express.js.
+Implemented routes to handle GET, POST, PUT, and DELETE requests.
+✅ Practiced API Testing with Postman:
+Utilized Postman to test API endpoints, ensuring correct responses and improved debugging strategies.
+
+### **Key Learning**  
+##💡 💡 Learning about different module systems, building dynamic APIs, and testing them with Postman significantly improved my understanding of backend development.
+
